@@ -1,1 +1,0 @@
-print("mama mela # %% [markdown]")
